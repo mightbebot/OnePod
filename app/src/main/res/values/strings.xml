@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OnePod</string>
+
+    <string name="URL1">http://feeds.gimletmedia.com/hearreplyall?format=xml</string>
+    <string name="URL2">http://joeroganexp.joerogan.libsynpro.com/rss</string>
+    <string name="URL3">https://wakingup.libsyn.com/rss</string>
+    <string name="URL4">http://www.abc.net.au/triplej/programs/hack/feed/6840588/podcast.xml</string>
+    <string name="URL5">http://www.podcastone.com.au/podcast?categoryID2=8055</string>
+    <string name="URL6">http://www.abc.net.au/radio/programs/russia-if-youre-listening/feed/9593214/podcast.xml</string>
+    <string name="URL7">https://rss.whooshkaa.com/rss/podcast/id/1791</string>
+    <string name="URL8">http://feeds.feedburner.com/TEDTalks_audio?format=xml</string>
+    <string name="URL9">https://rss.acast.com/interview</string>
+</resources>
